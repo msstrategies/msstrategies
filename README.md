@@ -2,7 +2,7 @@
 
 ### Michael Sezer
 
-**AI Solutions &amp; Forward Deployed Engineer — Bern, Switzerland**
+**AI Solutions &amp; Forward Deployed Engineer - Bern, Switzerland**
 
 I build deterministic AI systems for messy real-world problems, and I ship them end to end.
 
@@ -20,9 +20,9 @@ Self-taught, ship-first. In under a year, while working full time, I built produ
 
 #### Selected work
 
-- **[FactoryWaste Copilot](https://github.com/msstrategies/factorywaste-copilot)** — grounded waste diagnostics for the factory floor. Deterministic core, LLM only at the narration edge. [Live demo](https://msstrategies.github.io/factorywaste-copilot/).
-- **[Sarah AI](https://github.com/msstrategies/sarah-ai)** — one command turns a niche plus a city into a qualified, researched outreach list. Python, stdlib-first.
-- **[Agentic Command Center](https://github.com/msstrategies/agentic-command-center)** — a reference architecture for reliable autonomous agents: skills as the unit of capability, role-based subagents, guardrail hooks, and a self-healing loop.
+- **[FactoryWaste Copilot](https://github.com/msstrategies/factorywaste-copilot)** - grounded waste diagnostics for the factory floor. Deterministic core, LLM only at the narration edge. [Live demo](https://msstrategies.github.io/factorywaste-copilot/).
+- **[Sarah AI](https://github.com/msstrategies/sarah-ai)** - one command turns a niche plus a city into a qualified, researched outreach list. Python, stdlib-first.
+- **[Agentic Command Center](https://github.com/msstrategies/agentic-command-center)** - a reference architecture for reliable autonomous agents: skills as the unit of capability, role-based subagents, guardrail hooks, and a self-healing loop.
 
 #### Toolbox
 
