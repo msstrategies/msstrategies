@@ -1,8 +1,7 @@
 <div align="center">
 
-### MSStrategies
 
-**AI Solutions &amp; Forward Deployed Engineer - Remote**
+**AI Solutions &amp; Forward Deployed Engineer**
 
 I build deterministic AI systems for messy real-world problems, and I ship them end to end.
 
@@ -30,4 +29,4 @@ Python · JavaScript · Claude / LLM APIs · MCP · Next.js · Supabase · agent
 
 #### Reach me
 
-[Portfolio](https://msstrategies.github.io) · [LinkedIn](https://www.github.com/msstrategies) · contactmsstrategies@gmail.com
+[Portfolio](https://msstrategies.github.io) 
