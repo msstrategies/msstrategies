@@ -6,8 +6,7 @@
 I build deterministic AI systems for messy real-world problems, and I ship them end to end.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-msstrategies.github.io-5fc2b8?style=flat-square&logo=github&logoColor=white)](https://msstrategies.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-msstrategies-5fc2b8?style=flat-square&logo=linkedin&logoColor=white)](https://www.github.com/msstrategies)
-[![Email](https://img.shields.io/badge/Email-sezermichael%40gmail.com-5fc2b8?style=flat-square&logo=gmail&logoColor=white)](mailto:contactmsstrategies@gmail.com)
+
 
 </div>
 
